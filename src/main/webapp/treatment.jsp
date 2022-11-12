@@ -28,6 +28,106 @@
 				<img src="https://assets.codepen.io/5041378/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1600304177&width=512" alt="">
 			</button>
 		</div>
+		<div class="overflow-x-auto relative px-20 mt-6 rounded-md">
+		    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400 rounded-md">
+		        <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+		            <tr>
+		                <th scope="col" class="py-3 px-6">
+		                    Овог нэр
+		                </th>
+		                <th scope="col" class="py-3 px-6">
+		                    Төрсөн өдөр
+		                </th>
+		                <th scope="col" class="py-3 px-6">
+		                    Гэрийн хаяг
+		                </th>
+		                <th scope="col" class="py-3 px-6">
+		                    Нас
+		                </th>
+		                <th scope="col" class="py-3 px-6">
+		                    Хүйс
+		                </th>
+		                <th scope="col" class="py-3 px-6">
+		                    Утасны дугаар
+		                </th>
+		                <th scope="col" class="py-3 px-6">
+		                    ЭМД дугаар
+		                </th>
+		            </tr>
+		        </thead>
+		        <tbody>
+		            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+		                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+		                    Батаа Дорж
+		                </th>
+		                <td class="py-4 px-6">
+		                    1999/12/31
+		                </td>
+		                <td class="py-4 px-6">
+		                    Тэр газрын тэр газар
+		                </td>
+		                <td class="py-4 px-6">
+		                    99
+		                </td>
+		                <td class="py-4 px-6">
+		                    Эр
+		                </td>
+		                <td class="py-4 px-6">
+		                    99119999
+		                </td>
+		                <td class="py-4 px-6">
+		                    12345678
+		                </td>
+		            </tr>
+		            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+		                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+		                    Батаа Дорж
+		                </th>
+		                <td class="py-4 px-6">
+		                    1999/12/31
+		                </td>
+		                <td class="py-4 px-6">
+		                    Тэр газрын тэр газар
+		                </td>
+		                <td class="py-4 px-6">
+		                    99
+		                </td>
+		                <td class="py-4 px-6">
+		                    Эр
+		                </td>
+		                <td class="py-4 px-6">
+		                    99119999
+		                </td>
+		                <td class="py-4 px-6">
+		                    12345678
+		                </td>
+		            </tr>
+		            <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+		                <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+		                    Батаа Дорж
+		                </th>
+		                <td class="py-4 px-6">
+		                    1999/12/31
+		                </td>
+		                <td class="py-4 px-6">
+		                    Тэр газрын тэр газар
+		                </td>
+		                <td class="py-4 px-6">
+		                    99
+		                </td>
+		                <td class="py-4 px-6">
+		                    Эр
+		                </td>
+		                <td class="py-4 px-6">
+		                    99119999
+		                </td>
+		                <td class="py-4 px-6">
+		                    12345678
+		                </td>
+		            </tr>
+		        </tbody>
+		    </table>
+		</div>
 	</div>
 </body>
 </html>
